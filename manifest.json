@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-back-to-top",
+	"name": "Back to Top",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "",
+	"author": "ArtaMRJ",
+	"authorUrl": "https://github.com/artamrj/obsidian-back-to-top",
+	"isDesktopOnly": false
+}
